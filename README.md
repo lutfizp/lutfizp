@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   </a>
 </p>
-<h3 align="left">OS I Use:</h3>
+<h3 align="left">🛠️ OS I Use:</h3>
   <a href="https://www.kali.org/" target="_blank">
     <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
   </a>
