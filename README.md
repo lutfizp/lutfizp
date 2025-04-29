@@ -9,19 +9,56 @@
 
 ### 📈 GitHub Stats
 
-![Luthfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfizp&show_icons=true&theme=tokyonight&hide_border=true)
+![Lutfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfizp&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfizp&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-### 🎧 Spotify: 
+### 🎧 Spotify: Recently Played
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31gyitwhplxyg5m5lvxidnblupgq&count=5&width=700)
 
 ---
 
-### 📫 Connect with me
+### 🌐 Connect with me:
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lutfizp)
-- 🧠 [Portfolio](https://www.instagram.com/ltf.tester) 
+<p align="left">
+  <a href="https://linkedin.com/in/lutfizp" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/ltf.tester" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/lutfizp" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_icon.svg" alt="Wireshark" width="40" height="40"/>
+  </a>
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
+  </a>
+</p>
