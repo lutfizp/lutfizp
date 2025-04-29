@@ -21,17 +21,16 @@
 
 ---
 
-### 🌐 Connect with me:
-
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/lutfizp" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/ltf.tester" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/@ltf.tester-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram 1"/>
   </a>
   <a href="https://instagram.com/lutfizp" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/@lutfizp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram 2"/>
   </a>
 </p>
 
@@ -56,9 +55,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_icon.svg" alt="Wireshark" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   </a>
   <a href="https://www.kali.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
   </a>
 </p>
