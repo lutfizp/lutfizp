@@ -4,6 +4,7 @@
 💻 Passionate about **open source**, building impactful tools, and solving real-world problems.  
 🎧 Music keeps me focused — there's always a playlist running while I code.  
 ☕ Lifelong learner & coffee-fueled thinker, constantly tinkering and experimenting.
+
 ---
 
 ### 🎧 Spotify: Recently Played
