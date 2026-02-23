@@ -4,15 +4,6 @@
 💻 Passionate about **open source**, building impactful tools, and solving real-world problems.  
 🎧 Music keeps me focused — there's always a playlist running while I code.  
 ☕ Lifelong learner & coffee-fueled thinker, constantly tinkering and experimenting.
-
----
-
-### 📈 GitHub Stats
-
-![Lutfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfizp&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfizp&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ### 🎧 Spotify: Recently Played
