@@ -52,24 +52,6 @@ i work in R&D. my job is basically to learn things, and honestly that's the fun 
 
 ---
 
-<h3 align="center">stats</h3>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lutfizp&show_icons=true&hide_border=true&bg_color=00000000&text_color=c9d1d9&icon_color=58a6ff&title_color=c9d1d9&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lutfizp&show_icons=true&hide_border=true&bg_color=00000000&text_color=24292f&icon_color=0969da&title_color=24292f&include_all_commits=true&count_private=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=lutfizp&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfizp&layout=compact&hide_border=true&bg_color=00000000&text_color=c9d1d9&title_color=c9d1d9&langs_count=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfizp&layout=compact&hide_border=true&bg_color=00000000&text_color=24292f&title_color=24292f&langs_count=6" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfizp&layout=compact&hide_border=true&langs_count=6" />
-  </picture>
-</div>
-
----
-
 <h3 align="center">listening</h3>
 
 <div align="center">
