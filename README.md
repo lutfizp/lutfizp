@@ -31,6 +31,6 @@ i work in R&D. my job is basically to learn things, and honestly that's the fun 
 
 ---
 
-**🎧 recently played**
+**Recently played**
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31gyitwhplxyg5m5lvxidnblupgq&count=5&width=700)
