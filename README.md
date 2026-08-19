@@ -21,9 +21,9 @@
 
 hey, i'm lutfi. i write stuff at **[ltfzp.blog](https://ltfzp.blog)** — random thoughts, dumb ideas, stuff i can't really say out loud, and things i'll probably regret posting later.
 
-i work in R&D. my job is basically to learn things, and honestly that's the fun part. i mess around with security, wireless, RF, and whatever else catches my attention. from building demons in Go to jamming wifi signals with SDR — if it sounds stupid and fun, i'm probably already doing it.
+i work in R&D. my job is basically to learn things. i mess around with security, wireless, RF, and whatever else catches my attention. 
 
-> *a laptop and an insane amount of psychotic delusion. that's all it takes.*
+> *if it sounds stupid and fun, i'm probably already doing it.*
 
 ---
 
